@@ -47,7 +47,7 @@ GOOGLE_CLIENT_SECRET=your_google_client_secret
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/secrets-app.git
+git clone [https://github.com/yourusername/secrets-app.git](https://github.com/twister904/Secrets.git)
 cd secrets-app
 ```
 
@@ -90,23 +90,6 @@ The server will run on `http://localhost:3000`.
 3. After logging in, submit your secret on the `/submit` page.
 4. View submitted secrets on the `/secrets` page (only available to authenticated users).
 
-## Project Structure
-
-```
-.
-├── public
-│   └── css
-│       └── styles.css
-├── views
-│   ├── home.ejs
-│   ├── login.ejs
-│   ├── register.ejs
-│   ├── secrets.ejs
-│   └── submit.ejs
-├── .env
-├── app.js
-└── package.json
-```
 
 
 ## License
