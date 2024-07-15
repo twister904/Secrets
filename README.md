@@ -47,7 +47,7 @@ GOOGLE_CLIENT_SECRET=your_google_client_secret
 1. Clone the repository:
 
 ```sh
-git clone [https://github.com/yourusername/secrets-app.git](https://github.com/twister904/Secrets.git)
+git clone (https://github.com/twister904/Secrets.git)
 cd secrets-app
 ```
 
